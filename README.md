@@ -1,5 +1,5 @@
 # Js-assessment
-Just some JavaScript questions I was given in an internship assessment test.
+Some assessment on JavaScript. The problems were given for an internship assessment test.
 
 
 Question 3) Write a simple function in JavaScript to loop through the first 200 numbers. If the number is divisible by 3, store it in a Fizz array. If the number is divisible by 5, store it in Buzz  array, If the number is divisible by 3 and 5, store it in FizzBuzz array, otherwise store the number in Others.
